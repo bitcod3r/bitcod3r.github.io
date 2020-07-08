@@ -1,11 +1,16 @@
 ---
 layout: home
-title: Home
-landing-title: 'Hi, my name is Forty'
+title: Guillermo Garcia
+landing-title: "Software Engineer"
 description: null
 image: null
 author: null
 show_tile: false
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
+This will be a very short description of my different areas of interest. Probably plenty of links to different web hubs like
+<a href="https://soundcloud.com/bitcoder/">SoundCloud</a>,
+<a href="https://github.com/bitcod3r/">GitHub</a>,
+<a href="https://www.linkedin.com/in/bitcoder/">LinkedIn</a>, and invitation to visit my Blog.
+
+<!--a href=""></a-->

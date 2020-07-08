@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Elements
+title: about
 nav-menu: true
 ---
 
@@ -15,8 +15,10 @@ nav-menu: true
 		</header>
 
 <!-- Content -->
-<h2 id="content">Sample Content</h2>
-<p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
+<h2 id="content">Programming National Championship</h2>
+<p>As every story it has a starting point. Back at 2009, when I was close to finish my seniority at Escuela Politénica Nacional, a small team decided to be part of the National Championship.
+(continue with deatils about the organization and methodology used (iconix) ... Pictures using two column format. Another paragrahp and finally a full width image)
+</p>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Sem turpis amet semper</h3>
@@ -66,49 +68,50 @@ Finally, this is a <a href="#">link</a>.</p>
 <div class="row">
 	<div class="6u 12u$(small)">
 
-		<h4>Unordered</h4>
-		<ul>
-			<li>Dolor etiam magna etiam.</li>
-			<li>Sagittis lorem eleifend.</li>
-			<li>Felis dolore viverra.</li>
-		</ul>
+    	<h4>Unordered</h4>
+    	<ul>
+    		<li>Dolor etiam magna etiam.</li>
+    		<li>Sagittis lorem eleifend.</li>
+    		<li>Felis dolore viverra.</li>
+    	</ul>
 
-		<h4>Alternate</h4>
-		<ul class="alt">
-			<li>Dolor etiam magna etiam.</li>
-			<li>Sagittis lorem eleifend.</li>
-			<li>Felis feugiat viverra.</li>
-		</ul>
+    	<h4>Alternate</h4>
+    	<ul class="alt">
+    		<li>Dolor etiam magna etiam.</li>
+    		<li>Sagittis lorem eleifend.</li>
+    		<li>Felis feugiat viverra.</li>
+    	</ul>
 
-	</div>
-	<div class="6u$ 12u$(small)">
+    </div>
+    <div class="6u$ 12u$(small)">
 
-		<h4>Ordered</h4>
-		<ol>
-			<li>Dolor etiam magna etiam.</li>
-			<li>Etiam vel lorem sed viverra.</li>
-			<li>Felis dolore viverra.</li>
-			<li>Dolor etiam magna etiam.</li>
-			<li>Etiam vel lorem sed viverra.</li>
-			<li>Felis dolore viverra.</li>
-		</ol>
+    	<h4>Ordered</h4>
+    	<ol>
+    		<li>Dolor etiam magna etiam.</li>
+    		<li>Etiam vel lorem sed viverra.</li>
+    		<li>Felis dolore viverra.</li>
+    		<li>Dolor etiam magna etiam.</li>
+    		<li>Etiam vel lorem sed viverra.</li>
+    		<li>Felis dolore viverra.</li>
+    	</ol>
 
-		<h4>Icons</h4>
-		<ul class="icons">
-			<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
-			<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
-			<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
-			<li><a href="#" class="icon fa-github"><span class="label">Github</span></a></li>
-			<li><a href="#" class="icon fa-dribbble"><span class="label">Dribbble</span></a></li>
-			<li><a href="#" class="icon fa-tumblr"><span class="label">Tumblr</span></a></li>
-		</ul>
-		<ul class="icons">
-			<li><a href="#" class="icon alt fa-twitter"><span class="label">Twitter</span></a></li>
-			<li><a href="#" class="icon alt fa-facebook"><span class="label">Facebook</span></a></li>
-			<li><a href="#" class="icon alt fa-instagram"><span class="label">Instagram</span></a></li>
-		</ul>
+    	<h4>Icons</h4>
+    	<ul class="icons">
+    		<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+    		<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+    		<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+    		<li><a href="#" class="icon fa-github"><span class="label">Github</span></a></li>
+    		<li><a href="#" class="icon fa-dribbble"><span class="label">Dribbble</span></a></li>
+    		<li><a href="#" class="icon fa-tumblr"><span class="label">Tumblr</span></a></li>
+    	</ul>
+    	<ul class="icons">
+    		<li><a href="#" class="icon alt fa-twitter"><span class="label">Twitter</span></a></li>
+    		<li><a href="#" class="icon alt fa-facebook"><span class="label">Facebook</span></a></li>
+    		<li><a href="#" class="icon alt fa-instagram"><span class="label">Instagram</span></a></li>
+    	</ul>
 
-	</div>
+    </div>
+
 </div>
 
 <h4>Definition</h4>
@@ -393,9 +396,9 @@ Finally, this is a <a href="#">link</a>.</p>
 <pre><code>i = 0;
 
 while (!deck.isInOrder()) {
-    print 'Iteration ' + i;
-    deck.shuffle();
-    i++;
+print 'Iteration ' + i;
+deck.shuffle();
+i++;
 }
 
 print 'It took ' + i + ' iterations to sort the deck.';

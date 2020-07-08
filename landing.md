@@ -1,9 +1,10 @@
 ---
-title: Landing
+title: landing
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: "Landing Page"
 image: assets/images/pic07.jpg
 nav-menu: true
+show_tile: false
 ---
 
 <!-- Main -->
@@ -13,9 +14,10 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Sed amet aliquam</h2>
+			<h2>Programming National Championship</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
+		<p>As every story it has a starting point. Back at 2009, when I was close to finish my seniority at Escuela Politénica Nacional, a small team decided to be part of the National Championship.
+(continue with deatils about the organization and methodology used (iconix) ... Pictures using two column format. Another paragrahp and finally a full width image)</p>
 	</div>
 </section>
 
