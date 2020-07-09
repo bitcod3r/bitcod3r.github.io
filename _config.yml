@@ -3,9 +3,8 @@ title: Guillermo Garcia
 subtitle: aka bitcoder
 email: bitcoder@gmail.com
 description: |
-  Based in Quito, Ecuador. Focused on enabling teams to work together effortlessly.
-
-  Born 1977. Musician in free time.
+  Based in Quito, Ecuador. Born 1977.<br>
+  Focused on enabling teams to work together effortlessly.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: Guillermo Garcia
@@ -14,7 +13,7 @@ city: Quito
 state: Pichincha
 zip_code: 55555
 country: Ecuador
-phone: +59399 897-9627
+phone: +59399.897.9627
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
