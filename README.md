@@ -53,6 +53,6 @@ $ bundle install
 $ bundle exec jekyll serve
 ```
 
-Notes: In case you are using Github Pages and you updates the repository dependencies with `bundle update`, make sure it accomplishes the current github-pages dependencies [version requirements](https://pages.github.com/versions/). Anyway, it uses the [github pages gem](https://github.com/github/pages-gem).
+> :warning: In case you are using Github Pages and you updates the repository dependencies with `bundle update`, make sure it accomplishes the current github-pages dependencies [version requirements](https://pages.github.com/versions/). Anyway, it uses the [github pages gem](https://github.com/github/pages-gem).
 
 Repository licensed under a [Creative Commons Attribution 4.0 International License](http://choosealicense.com/licenses/cc-by-4.0/).
