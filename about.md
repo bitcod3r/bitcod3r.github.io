@@ -1,6 +1,8 @@
 ---
 layout: page
 title: about
+description:
+image: assets/images/about-jg.jpg
 nav-menu: true
 ---
 
@@ -11,12 +13,12 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Elements</h1>
+			<h1>About me</h1>
 		</header>
 
 <!-- Content -->
 <h2 id="content">Programming National Championship</h2>
-<p>As every story it has a starting point. Back at 2009, when I was close to finish my seniority at Escuela Politénica Nacional, a small team decided to be part of the National Championship.
+<p>As every story, it has a starting point. Back at 2009, when I was close to finish my seniority at Escuela Politénica Nacional, a small team decided to be part of the National Championship.
 (continue with deatils about the organization and methodology used (iconix) ... Pictures using two column format. Another paragrahp and finally a full width image)
 </p>
 <div class="row">

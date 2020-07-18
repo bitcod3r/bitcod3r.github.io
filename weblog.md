@@ -1,12 +1,11 @@
 ---
 layout: allposts
 title: weblog
-landing-title: "weblogggg"
-description: "Dreams.in.Digital - My digital webprint log"
-image: assets/images/pic07.jpg
+landing-title: "weblog"
+description: "Dreams.in.Digital - My digital webprint"
+image: assets/images/weblog-banner.jpg
 nav-menu: true
 description: null
-image: null
 author: null
 ---
 
