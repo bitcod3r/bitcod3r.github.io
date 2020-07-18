@@ -2,7 +2,7 @@
 layout: post
 title: skills
 description:
-image: assets/images/pic11.jpg
+image: assets/images/skills.jpg
 nav-menu: true
 ---
 
