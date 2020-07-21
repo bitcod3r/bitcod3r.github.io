@@ -1,14 +1,12 @@
 # bitcoder.net
 
-Guillermo Garcia's web hub. There are many reasons to have a personal website that has nothing to do with egocentric purposes. This is where anyone can find my personal and professional projects—besides, my [weblog](https://bitcoder.net/weblog.html) and some basic [Bio](https://bitcoder.net/about.html).
+Welcome! This is where anyone can find my personal and professional projects. Besides, my [weblog](https://bitcoder.net/weblog.html) and some basic [Bio](https://bitcoder.net/about.html).
 
 ![bitcoder.net](assets/images/wide-jg.jpg "Guillermo Garcia")
 
-# Bio
+# Speaker Bio
 
-For those who need a general Guillermo Garcia bio, you can use this one:
-
-_Guillermo Garcia is a passionated Software Engineer, focused on agile software development, and general business development. Driven by creating great products, solving business problems and enhancing processes like communication with remote teams; Guillermo loves exploring the big picture, yet also coding, teaching, and mentoring. He ultimately worked for Sillicon Valley startups to develop products from the management to the technical leadership sides._
+_Guillermo Garcia is a passionated Software Engineer, focused on agile software development, and general business development. With more than 20 years of experience in the industry he worked for Sillicon Valley startups to develop products from the management to the technical leadership sides._
 
 # Contact
 
