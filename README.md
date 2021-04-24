@@ -1,6 +1,6 @@
 # bitcoder.net
 
-Welcome! This is where anyone can find my personal and professional projects. Besides, my [weblog](https://bitcoder.net/weblog.html) and some basic [Bio](https://bitcoder.net/about.html).
+Welcome! This repo has the code behind [bitcoder.net](https://bitcoder.net/), where anyone can find my personal and professional projects. Besides, my [weblog](https://bitcoder.net/weblog.html) and a short [Bio](https://bitcoder.net/about.html) used in press and conferences.
 
 ![bitcoder.net](assets/images/wide-jg.jpg "Guillermo Garcia")
 
