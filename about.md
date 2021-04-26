@@ -17,9 +17,7 @@ nav-menu: true
 		</header>
 
 <!-- Content -->
-<h2 id="content">Programming National Championship</h2>
-<p>As every story, it has a starting point. Back at 2009, when I was close to finish my seniority at Escuela Politénica Nacional, a small team decided to be part of the National Championship.
-(continue with deatils about the organization and methodology used (iconix) ... Pictures using two column format. Another paragrahp and finally a full width image)
+<p>Guillermo Garcia is a passionated Software Engineer, focused on agile software development, and general business development. With more than 20 years of experience in the industry he worked for Sillicon Valley startups to develop products from the management to the technical leadership sides.
 </p>
 <div class="row">
 	<div class="6u 12u$(small)">
