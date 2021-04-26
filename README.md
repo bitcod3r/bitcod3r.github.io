@@ -30,7 +30,7 @@ $ bundle install
 > Run Jekyll in development mode
 
 ```shell
-$ bundle exec jekyll serve --watch
+$ bundle exec jekyll serve --watch --livereload
 ```
 
 > :warning: In case you are using Github Pages and you update the repository dependencies with `bundle update`, make sure it accomplishes the current github-pages dependencies [version requirements](https://pages.github.com/versions/). Anyway, it uses the [github pages gem](https://github.com/github/pages-gem).
