@@ -8,7 +8,7 @@ nav-menu: true
 
 <div class="row">
 	<div class="6u 12u$(small)">
-		<h3>Interpersonal</h3>
+		<h3>Soft Skills</h3>
 		<p>
 
 - Leadership
