@@ -103,4 +103,4 @@ nav-menu: true
 
   </div>
 
-**Note:** To be implement, a skill level indicator, connected to any main Training Tool score test (PluralSight, Linkedin Learning, etc.)
+<!-- TO-DO: implement, a skill level indicator, connected to any main Training Tool score test (PluralSight, Linkedin Learning, etc.) -->

@@ -1,7 +1,7 @@
 ---
-title: landing
-layout: landing
-description: "Landing Page"
+title: side projects
+layout: projects
+description: "In the meantime..."
 image: assets/images/pic07.jpg
 nav-menu: true
 show_tile: false
@@ -13,11 +13,7 @@ show_tile: false
 <!-- One -->
 <section id="one">
 	<div class="inner">
-		<header class="major">
-			<h2>Programming National Championship</h2>
-		</header>
-		<p>As every story it has a starting point. Back at 2009, when I was close to finish my seniority at Escuela Politénica Nacional, a small team decided to be part of the National Championship.
-(continue with deatils about the organization and methodology used (iconix) ... Pictures using two column format. Another paragrahp and finally a full width image)</p>
+		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
 	</div>
 </section>
 
