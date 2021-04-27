@@ -8,5 +8,3 @@ nav-menu: true
 description: null
 author: null
 ---
-
-<h1>All posts</h1>
