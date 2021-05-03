@@ -22,8 +22,8 @@ nav-menu: true
 		<span class="image left">
 			<img src="{% link assets/images/about-jg-large.jpg %}" alt="" />
 		</span>	
-		<p>I am a passionated Software Engineer, focused on Agile Software development, and general business development. With more than 15 years of experience in the industry, worked for Sillicon Valley startups to develop products from the management to the technical leadership.</p>
-		<p>Driven by creating great products, solving business problems, and enhancing processes like communication with remote teams; I like to blend seamless staff-management linked to a sharp mind with strong analytical skills, clear vision of the far future, and the enthusiastic drive to make it all happen. I'm skeptical of fads and focused on meeting real business needs. I love exploring the big picture, yet also coding, teaching, and mentoring.</p>
+		<p>I am a passionated Software Engineer, focused on Agile Software development, and general business development. With more than 15 years of experience in the industry, working for Silicon Valley startups to develop products from the management to the technical leadership.</p>
+		<p>Driven by creating great products, solving business problems, and enhancing processes like communication with remote teams; I like to blend seamless staff-management linked to a sharp mind with strong analytical skills, a clear vision of the far future, and the enthusiastic drive to make it all happen. I'm skeptical of fads and focused on meeting real business needs. I love exploring the big picture, yet also coding, teaching, and mentoring.</p>
 		<p>I always try to <a href="https://github.com/bitcod3r/">remain hands-on</a>, focusing on valuable changes and surrounding my teams with much-needed support, especially when priorities are unknown and strong technical problems needs some expert advice.</p>
 		<p>When I am not <a href="/skills.html">programming</a>, enjoy to answer <a href="https://stackoverflow.com/users/story/247684">StackOverflow questions</a> :)</p>
 	</div>
