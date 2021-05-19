@@ -43,18 +43,24 @@ nav-menu: true
 		to engage young talent with an <a href="https://www.flisol.ec/guayaquil/">open culture</a>.</p>
 	</div>
 	<div class="12u$">
-	<h3></h3>
+		<h3>Conferences</h3>
 		<div class="6u 12u$(big)">
 			<p></p>
 		</div>
-		<div class="6u 12u$(big)"></div>
-		
+		<div class="6u 12u$(big)">
+			<p>
+				World Telecommunication & Information Society Day
+				<span>(05.19.2021)<span>
+			</p>
+			<p><strong>Presentation:</strong> Edge Computing in 5G Era</p>
+			<p><strong>Subscribe at:</strong> https://events.vtools.ieee.org/m/271047</p>
+		</div>
 	</div>
 </div>
 
 
 <!-- TO-DO: Expand more info about pro activities. Like radio interviews and conferences. Or side projects -->
 
-
+</div>
 </section>
 </div>
