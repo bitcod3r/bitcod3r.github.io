@@ -42,13 +42,19 @@ nav-menu: true
 		<a href="https://twitter.com/i3labespol/status/941010701581258758">internship program</a>
 		to engage young talent with an <a href="https://www.flisol.ec/guayaquil/">open culture</a>.</p>
 	</div>
+	<div class="12u$">
+	<h3></h3>
+		<div class="6u 12u$(big)">
+			<p></p>
+		</div>
+		<div class="6u 12u$(big)"></div>
+		
+	</div>
 </div>
+
 
 <!-- TO-DO: Expand more info about pro activities. Like radio interviews and conferences. Or side projects -->
 
 
-
-
-	</div>
 </section>
 </div>
